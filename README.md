@@ -75,6 +75,6 @@ Koa serves as the underlying engine for the framework. It is selected for its mi
 
 The framework originates from Swedish developers which is reflected in the multi-layered meaning of the letter K. While it primarily stands for Koa it also functions as a linguistic nod to the Swedish words Klass(english: class) and Kod (english: code). This connection highlights the cultural emphasis on structured engineering and clean implementation that defines the project identity.
 
-Klass signifies the object-oriented paradigm where application logic is organized into discrete classes for better structure and encapsulation. Kod represents the focus on high-quality and maintainable implementation. This association reinforces the identity of the framework as a tool for developers who prioritize clean architecture and structured programming.
+Klass signifies the object-oriented paradigm where application logic is organized into discrete classes for better structure and encapsulation. Kod represents the focus on high-quality and maintainable implementation. This association reinforces the identity of the framework as a tool for developers who prioritize clean architecture and structured object oriented programming.
 
 

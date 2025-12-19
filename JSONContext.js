@@ -1,7 +1,7 @@
-// JsonContext.js
-class JsonContext
+// JSONContext.js
+class JSONContext
 {
-    static #instance   = new JsonContext();
+    static #instance   = new JSONContext();
 
     constructor()
     {
@@ -21,4 +21,4 @@ class JsonContext
     }
 }
 
-module.exports         = JsonContext;
+module.exports         = JSONContext;
